@@ -1,5 +1,5 @@
 module Lilaq
 
-greet() = print("Hello World!")
+include("circuit/circuit.jl")
 
 end # module Lilaq
